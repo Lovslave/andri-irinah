@@ -1,0 +1,131 @@
+body{
+	background-color:#f9f7f7;
+	color: #40514E;
+	margin: 0;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+h1{
+	color: #66BFBF;
+	margin:50px auto 0 auto;
+	font-size: 5em;
+	font-family: 'Dancing Script', cursive;
+}
+
+h2{
+	color:#66BFBF;
+	font-family: 'Merriweather', serif;
+	font-weight: normal;
+	margin-top: 50px;
+}
+
+h3{
+	color: #11999E;
+	font-family: 'Merriweather', serif;
+}
+
+hr{
+	color: #dbe2ef;
+	border-style: none;
+	border-top-style: dotted;
+	border-width: 5px;
+	width: 5%;
+}
+
+p{
+	line-height: 2;
+}
+
+a{
+	color: #11999E;
+	font-family: 'Merriweather', serif;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#f9f7f7;
+}
+.top-container{
+	background-color:#dbe2ef;
+	padding-top:100px;
+	position: relative;
+}
+
+.top-cloud{
+	position: absolute;
+	right:400px;
+	top: 50px;
+}
+
+.bottom-cloud{
+	position: absolute;
+	left:300px;
+	bottom:300px;
+}
+
+.intro{
+	width: 50%;
+	margin:50px auto 50px auto;
+}
+
+.btn {
+  background: #43e6e6;
+  background-image: -webkit-linear-gradient(top, #43e6e6, #53add6);
+  background-image: -moz-linear-gradient(top, #43e6e6, #53add6);
+  background-image: -ms-linear-gradient(top, #43e6e6, #53add6);
+  background-image: -o-linear-gradient(top, #43e6e6, #53add6);
+  background-image: linear-gradient(to bottom, #43e6e6, #53add6);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 10px 20px 10px 21px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfce2;
+  background-image: -webkit-linear-gradient(top, #3cfce2, #127dc4);
+  background-image: -moz-linear-gradient(top, #3cfce2, #127dc4);
+  background-image: -ms-linear-gradient(top, #3cfce2, #127dc4);
+  background-image: -o-linear-gradient(top, #3cfce2, #127dc4);
+  background-image: linear-gradient(to bottom, #3cfce2, #127dc4);
+  text-decoration: none;
+}
+
+.contact-me{
+	color:none;
+}
+
+
+.bottom-container{
+	background-color:#dbe2ef; 
+	padding: 50px 0 20px;
+	margin-top: 50px;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+
+.code-program{
+	width: 20%;
+	float: right;
+	margin-left: 20px;
+}
+
+.violin{
+	width: 20%;
+	float: left;
+	margin-right: 20px;
+}
+
+.copyright{
+	color: #FAFAFA;
+}

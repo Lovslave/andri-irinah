@@ -1,0 +1,17 @@
+display: inline-block
+position: 
+	relative (par rapport au position initiale), 
+	fixed (reste toujours sur la page)
+	absolute (par rapport au parent-element)
+<span>
+<div>
+
+font-size:
+	static-size = em or %
+	dynamic and more safe = px
+	the most safe is "rem"
+	1em or 1rem = 16px
+
+float (pour les textes sur le coter)
+
+clear (anti float, permet d'empecher un text ou un element de ne pas etre affecter par le float)
